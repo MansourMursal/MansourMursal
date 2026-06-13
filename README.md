@@ -46,22 +46,6 @@ I'm a passionate Frontend Engineer focused on building responsive, accessible, a
 
 ---
 
-## 🌟 Featured Projects
-
-### 🚀 Project One
-Brief description of your best project.
-
-**Tech:** React, TypeScript, Tailwind CSS
-
-### 🎯 Project Two
-Brief description of another project you're proud of.
-
-**Tech:** Next.js, API Integration
-
-### 💼 Portfolio Website
-A showcase of my work, skills, and projects.
-
----
 
 ## 📈 GitHub Stats
 
@@ -89,15 +73,15 @@ A showcase of my work, skills, and projects.
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/MansourMursal">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://twitter.com/your-twitter">
+<a href="https://twitter.com/MansourMursal">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x" />
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:mansourmursal@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
 </a>
 </p>
