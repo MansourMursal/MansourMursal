@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Your Mansur👋
 
-<!--
-**MansourMursal/MansourMursal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | AI Builder | Open Source Contributor
 
-Here are some ideas to get you started:
+Building products that solve real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+- 🔭 Building: Project Name
+- 🌱 Learning: Technology
+- 🤝 Open to: Collaborations & freelance opportunities
+- 💬 Ask me about: Python, AI, Cloud, DevOps
+- ⚡ Fun fact: Something memorable
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <!-- badges here -->
+</p>
+
+---
+
+## Featured Projects
+
+### 🚀 Project One
+Short impact-focused description.
+
+**Tech:** Python, FastAPI, PostgreSQL
+
+🔗 Demo | 📂 Repository
+
+### 🤖 Project Two
+Description.
+
+---
+
+## GitHub Analytics
+
+<!-- stats cards -->
+
+---
+
+## What I'm Building in 2026
+
+- AI Agent Platform
+- SaaS Products
+- Open Source Tools
+
+---
+
+## Connect With Me
+
+LinkedIn | Portfolio | X | Email
