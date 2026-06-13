@@ -1,54 +1,113 @@
-# Hi, I'm Your Mansur👋
+<h1 align="center">Hi 👋, I'm Mansour Mursal</h1>
 
-🚀 Software Engineer | AI Builder | Open Source Contributor
-
-Building products that solve real-world problems through code.
-
-### Current Focus
-- 🔭 Building: Project Name
-- 🌱 Learning: Technology
-- 🤝 Open to: Collaborations & freelance opportunities
-- 💬 Ask me about: Python, AI, Cloud, DevOps
-- ⚡ Fun fact: Something memorable
-
----
-
-## Tech Stack
+<h3 align="center">
+Frontend Engineer crafting beautiful, fast, and user-focused web experiences.
+</h3>
 
 <p align="center">
-  <!-- badges here -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React+Developer;JavaScript+%26+TypeScript+Enthusiast;Building+Modern+Web+Experiences" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MansourMursal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 About Me
+
+I'm a passionate Frontend Engineer focused on building responsive, accessible, and high-performance web applications.
+
+- 🎨 Turning ideas into polished user experiences
+- ⚡ Building modern web applications with React and TypeScript
+- 🌱 Continuously learning new frontend technologies
+- 🤝 Open to collaboration on innovative projects
+- 💡 Interested in UI/UX, performance optimization, and design systems
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🌟 Featured Projects
 
 ### 🚀 Project One
-Short impact-focused description.
+Brief description of your best project.
 
-**Tech:** Python, FastAPI, PostgreSQL
+**Tech:** React, TypeScript, Tailwind CSS
 
-🔗 Demo | 📂 Repository
+### 🎯 Project Two
+Brief description of another project you're proud of.
 
-### 🤖 Project Two
-Description.
+**Tech:** Next.js, API Integration
 
----
-
-## GitHub Analytics
-
-<!-- stats cards -->
+### 💼 Portfolio Website
+A showcase of my work, skills, and projects.
 
 ---
 
-## What I'm Building in 2026
+## 📈 GitHub Stats
 
-- AI Agent Platform
-- SaaS Products
-- Open Source Tools
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MansourMursal&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MansourMursal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansourMursal&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## Connect With Me
+## 🎯 Current Goals
 
-LinkedIn | Portfolio | X | Email
+- Build impactful frontend applications
+- Master advanced React patterns
+- Contribute more to open source
+- Learn modern web architecture
+- Create exceptional user experiences
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://twitter.com/your-twitter">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x" />
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### "Building digital experiences that users love."
+
+⭐ Feel free to explore my repositories and connect!
+
+</div>
